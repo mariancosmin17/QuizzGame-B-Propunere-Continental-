@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizz>
+   <question id="1">
+       <text>Cat este radical din 225?</text>
+       <answer>15</answer>
+       <hint>Nu este hint</hint>
+   </question>
+   <question id="2">
+       <text>Cate camere are inima?</text>
+       <answer>4</answer>
+       <hint>este numar par</hint>
+   </question>
+   <question id="3">
+       <text>Cine este presedintele Statelor Unite Ale Americii?</text>
+       <answer>Donald Trump</answer>
+       <hint>a mai fost presedinte o data</hint>
+   </question>
+   <question id="4">
+       <text>Care este capitala Africii de Sud?</text>
+       <answer>Cape Town</answer>
+       <hint>Nu este hint</hint>
+   </question>
+   <question id="5">
+       <text>In ce an a inceput Primul Razboi Mondial?</text>
+       <answer>1914</answer>
+       <hint>gande te</hint>
+   </question>
+   <question id="6">
+       <text>Deriveaza x^2.Cat obtii?</text>
+       <answer>2x</answer>
+       <hint>ana are mere</hint>
+   </question>
+</quizz>
+
